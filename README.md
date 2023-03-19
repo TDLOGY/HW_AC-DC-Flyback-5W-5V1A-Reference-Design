@@ -5,7 +5,7 @@ AC DC Flyback 5W 5V1A Reference Design
 - __[Linh Kiện Thủ Đức](https://linhkienthuduc.com/)__ - Electronics shop in Viet Nam
 
 You will like those projects!
-
+## Please note that this project just for learning basic of AC-DC power supply purpose, will not care about safety standard. Only use it for application which need basic safety!!!
 ---
 
 ### Reference Design for flyback AC-DC circuit with 5W power output 5V & 1A 8-)
