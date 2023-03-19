@@ -20,7 +20,7 @@ Note 2: **The transformer used in design is not used for higher voltage output e
 
 #### Picture reference
 
-![Schematic](https://github.com/TDLOGY/AC-DC-Flyback-5W-5V1A-Reference-Design/blob/main/Schematic%20pic.PNG)
+![Schematic](https://github.com/TDLOGY/HW_AC-DC-Flyback-5W-5V1A-Reference-Design/blob/main/PS-5V1.4A-7W-EE13-Demo-board.png)
 
 ![3D1](https://github.com/TDLOGY/AC-DC-Flyback-5W-5V1A-Reference-Design/blob/main/5V2A_PS_EE1310.png)
 
