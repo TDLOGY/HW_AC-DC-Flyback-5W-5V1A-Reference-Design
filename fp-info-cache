@@ -1,0 +1,225 @@
+53628216606955
+0_Custom
+4G_PCB_ANT
+
+
+0
+1
+1
+0_Custom
+A7670C-R2
+
+
+0
+85
+55
+0_Custom
+A7672
+
+
+0
+85
+52
+0_Custom
+BL-M8189FS6
+
+
+0
+44
+44
+0_Custom
+BOBBIN_EE13_4_2
+
+
+0
+10
+6
+0_Custom
+EE1610
+
+
+0
+8
+8
+0_Custom
+EL817_7.62mm_Custom_SMD-THT
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+4
+0_Custom
+ESP32-WROOM-32
+Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
+0
+33
+33
+0_Custom
+GCT_USB4105-GF-A
+
+
+0
+16
+16
+0_Custom
+LOGO_PILASS_20x3
+
+
+0
+0
+0
+0_Custom
+LOGO_TDLOGY_NEW_10x2
+
+
+0
+0
+0
+0_Custom
+LOGO_TD_NEW_3x3
+
+
+0
+0
+0
+0_Custom
+LOGO_TD_NEW_N_3x3
+
+
+0
+0
+0
+0_Custom
+L_4.7x4.7_H2
+Choke, SMD, 6.3x6.3mm 3mm height
+Choke SMD
+0
+2
+2
+0_Custom
+R_Radial_Power_1W-12x4.5
+Resistor, Radial_Power series, Radial, pin pitch=2.40*2.30mm^2, 7W, length*width=7*8mm^2, http://www.vitrohm.com/content/files/vitrohm_series_kv_-_201601.pdf
+Resistor Radial_Power series Radial pin pitch 2.40*2.30mm^2 7W length 7mm width 8mm
+0
+2
+2
+0_Custom
+Relay_1-ALQ105mm
+Relay, 1-Form-C, Schrack-RYII, RM3.2mm, SPDT
+Relay 1-Form-C Schrack-RYII RM3.2mm SPDT
+0
+6
+4
+0_Custom
+SIM7600
+
+
+0
+87
+51
+0_Custom
+TDLOGY_LOGO_10x2.5
+
+
+0
+0
+0
+0_Custom
+TDLOGY_LOGO_20x5
+
+
+0
+0
+0
+0_Custom
+TDLOGY_LOGO_40x10
+
+
+0
+0
+0
+0_Custom
+TD_LOGO_5x3
+
+
+0
+0
+0
+0_Custom
+TD_LOGO_10x6
+
+
+0
+0
+0
+0_Custom
+TD_LOGO_30x19
+
+
+0
+0
+0
+0_Custom
+TerminalBlock_KF-3.81-2-V_01x02_P3.81mm_Vertical
+terminal block Metz Connect Type086_RT03404HBLC, 4 pins, pitch 3.81mm, size 15.1x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03404HBLC pitch 3.81mm size 15.1x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+2
+2
+0_Custom
+TerminalBlock_KF-3.81-4-V_01x04_P3.81mm_Vertical
+terminal block Metz Connect Type086_RT03404HBLC, 4 pins, pitch 3.81mm, size 15.1x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03404HBLC pitch 3.81mm size 15.1x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+4
+4
+0_Custom
+U.FL_Molex_MCRF_73412-0110_Vertical
+Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
+mcrf hirose ufl u.fl microcoaxial
+0
+3
+2
+0_Custom
+USB_Micro-B_Amphenol_10104110_Horizontal
+USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf
+USB Micro B horizontal
+0
+9
+6
+0_Custom
+USB_Micro-B_V3
+USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf
+USB Micro B horizontal
+0
+9
+6
+0_Custom
+VQFN-14-TIBUCK
+
+
+0
+19
+19
+0_Custom
+WSON_8x6_P1.27mm
+8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DIPD-Selection-Guide_AV00-0254EN_030617.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430884105675&ssbinary=true
+SSO Stretched SO SOIC Pitch 1.27
+0
+9
+8
+0_Custom
+nanoSIM_7P-Open-Lock
+https://item.taobao.com/item.htm?spm=a230r.1.14.102.70633cfcxSnZhJ&id=539608882053&ns=1&abbucket=17#detail
+nano SIM GSM Card
+0
+10
+6
+0_Custom
+nanoSIM_7P-Push-Push
+https://www.attend.com.tw/data/download/file/115U-A100.pdf
+nano SIM GSM Card
+0
+11
+7
