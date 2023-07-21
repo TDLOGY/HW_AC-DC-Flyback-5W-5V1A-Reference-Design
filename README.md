@@ -9,9 +9,9 @@ You will like those projects!
 ---
 
 ### Reference Design for flyback AC-DC circuit with 5W power output 5V & 1A 8-)
-#### Details about the design procedure you can find here - __[Design guideline (Vietnamese)](https://linhkienthuduc.com/huong-dan-tinh-toan-thiet-ke-mach-nguon-xung-flyback-ac-dc-5w-5v-1a-cho-cac-ung-dung-cong-suat-thap)__
+#### Details about the design procedure you can find here - __[Design guideline (Vietnamese)](https://linhkienthuduc.com/chia-se-thiet-ke-mau-va-tinh-toan-thiet-ke-mach-nguon-xung-flyback-ac-dc-5w-5v-1a-cho-cac-ung-dung-cong-suat-thap)__
 
-https://linhkienthuduc.com/chia-se-thiet-ke-mau-va-tinh-toan-thiet-ke-mach-nguon-xung-flyback-ac-dc-5w-5v-1a-cho-cac-ung-dung-cong-suat-thap
+
 
 Download Schematic PDF with detail footprint, value, part number **( you should download it and use Foxit Reader to click on the component to see it)**
 __[Download here](https://github.com/TDLOGY/AC-DC-Flyback-5W-5V1A-Reference-Design/blob/main/5V2A_PS_EE1310_Schematic.pdf)__
